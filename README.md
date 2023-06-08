@@ -18,3 +18,8 @@ Checkbox(
 
 
 <img src="https://github.com/jarroyoesp/VisibilityMaterial3/blob/master/images/material3.png">
+
+# Updated June 8th 2023
+
+After update dependencies(`androidx.constraintlayout:constraintlayout-compose:1.1.0-alpha09`), the issue is fixed. 
+More info here: https://issuetracker.google.com/issues/251721175
